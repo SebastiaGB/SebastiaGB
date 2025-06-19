@@ -67,10 +67,10 @@ Actualmente enfocado en crecer como **DevOps Junior** o **Ingeniero Cloud** espe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SebasGamun">
+  <a href="https://github.com/SebasGamun/Aforo_Playas_IoT">
     <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebasGamun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/SebasGamun">
+  <a href="https://github.com/SebasGamun/Aforo_Playas_IoT">
     <img width="360" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebasGamun&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
