@@ -64,4 +64,12 @@ Actualmente enfocado en crecer como **DevOps Junior** o **Ingeniero Cloud** espe
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasGamun&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGamun&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 ⭐ Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones!
