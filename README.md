@@ -1,33 +1,40 @@
 # 👋 ¡Hey! Soy Sebastià Gamundí Beneyto
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right" />
-
+<img src="https://raw.githubusercontent.com/SebasGamun/SebasGamun/main/image.png" width="100" align="right" />
 
 ---
 
 ## 🙋‍♂️ Un poco sobre mí
 
-Soy un ingeniero técnico en telemática con experiencia en sistemas IoT, redes y entornos cloud.  
-Actualmente enfocado en crecer como **DevOps Junior** o **Ingeniero Cloud** especializado en **AWS**.
+Soy un **ingeniero técnico en Telemática** con experiencia en **sistemas IoT**, **redes** y **entornos cloud**.  
+Actualmente estoy enfocado en crecer como **DevOps Junior** o **Ingeniero Cloud** especializado en **AWS**.
 
-- 🎯 Enfoque en eficiencia operativa y mejora continua
-- ☁️ Certificado como **AWS Cloud Practitioner**
-- 🐳 Me encanta trabajar con **Docker**, **Python**, y **buenas prácticas de despliegue**
-
+- 🎯 Enfoque en eficiencia operativa y mejora continua  
+- ☁️ Certificado como **AWS Cloud Practitioner**  
+- 🐳 Me encanta trabajar con **Docker**, **Python**, y aplicar **buenas prácticas de despliegue**
 
 ---
 
 ## 🧠 Conocimientos Técnicos
 
-### ☁️ **Cloud (AWS)**: EC2, S3, IAM, fundamentos de arquitectura
-### 🐳 **Docker**: Contenedores, imágenes, volúmenes
-### 🐍 **Python / Bash**: Automatización y scripting
-### 🛠️ **IoT / LoRa / Redes TCP/IP**
-### 🧮 **Bases de datos SQL** y visualización con **Grafana**
+### ☁️ Cloud (AWS)
+- EC2, S3, IAM, fundamentos de arquitectura cloud
+
+### 🐳 Docker
+- Creación de contenedores, manejo de imágenes y volúmenes
+
+### 🐍 Python / Bash
+- Scripting y automatización
+
+### 📡 IoT y Redes
+- Tecnologías LoRa / LoRaWAN, TCP/IP, redes móviles (4G)
+
+### 🧮 Bases de datos & Visualización
+- SQL (diseño, consultas), visualización de datos con **Grafana**
 
 ---
 
-## 🛠️ Tools que uso o estoy aprendiendo
+## 🛠️ Herramientas 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,9 +49,9 @@ Actualmente enfocado en crecer como **DevOps Junior** o **Ingeniero Cloud** espe
 
 ## 📌 En proceso...
 
-- Aprendiendo más sobre **Terraform**, **CI/CD con GitHub Actions** y **Kubernetes**
-- Preparándome para **certificaciones avanzadas de AWS**
-- Cursando BlockStellart 
+- Aprendiendo más sobre **Terraform**, **CI/CD con GitHub Actions** y **Kubernetes**  
+- Preparándome para certificaciones avanzadas de **AWS**  
+- Actualmente cursando en **BlockStellart**  
 
 ---
 
