@@ -5,10 +5,6 @@
   Ingeniero Técnico en Telemática • Especialiste en IoT y Monitorización de infraestructuras • Enfocado en el Cloud Computing
 </p>
 
-<p align="center">
-  <img src="https://github.com/SebasGamun/SebasGamun/raw/master/image.png" alt="Banner de Sebastià Gamundí" width="100%" />
-</p>
-
 ---
 
 ## 🙋‍♂️ Un poco sobre mí
