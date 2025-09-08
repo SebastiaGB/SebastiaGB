@@ -7,12 +7,6 @@
 
 ---
 
-## Un poco sobre mí
-
-**Ingeniero Telemáticao** con experiencia en **sistemas IoT**, **redes** y **entornos cloud**.  
-Actualmente me centro en crecer como **Cloud Engineer** especializado en **AWS**.
-
-
 ## Conocimientos Técnicos
 
 ### ☁️ Cloud (AWS)
