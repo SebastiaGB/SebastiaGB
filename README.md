@@ -58,4 +58,3 @@ Actualmente me centro en crecer como **Cloud Engineer** especializado en **AWS**
   </a>
 </p>
 
-⭐ Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones!
