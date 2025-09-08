@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 ¡Hey! Soy Sebastià Gamundí Beneyto</h1>
+<h1 align="center"> ¡Hey! Soy Sebastià Gamundí Beneyto</h1>
 
 <p align="center">
   Ingeniero Técnico en Telemática • Especialiste en IoT y Monitorización de infraestructuras • Enfocado en el Cloud Computing
@@ -7,32 +7,23 @@
 
 ---
 
-## 🙋‍♂️ Un poco sobre mí
+## Un poco sobre mí
 
 **Ingeniero Telemáticao** con experiencia en **sistemas IoT**, **redes** y **entornos cloud**.  
 Actualmente me centro en crecer como **Cloud Engineer** especializado en **AWS**.
 
-- 🎯 Eficiencia operativa & mejora continua  
-- 🐳 Trabajo con **Docker**, **Python**, y despliegues bien hechos 😄
 
----
-
-## 🧠 Conocimientos Técnicos
+## Conocimientos Técnicos
 
 ### ☁️ Cloud (AWS)
-- EC2, S3, IAM, arquitectura básica
 
 ### 🐳 Docker
-- Contenedores, volúmenes, imágenes
 
-### 🐍 Python / Bash
-- Scripting y automatización
+### 🐍 Python 
 
 ### 📡 Redes & IoT
-- LoRa / LoRaWAN, TCP/IP, redes móviles
 
-### 🧮 Bases de datos
-- SQL, Grafana
+### 🧮 Bases de datos & monitorización
 
 ---
 
