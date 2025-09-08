@@ -7,21 +7,7 @@
 
 ---
 
-## Conocimientos Técnicos
-
-### ☁️ Cloud (AWS)
-
-### 🐳 Docker
-
-### 🐍 Python 
-
-### 📡 Redes & IoT
-
-### 🧮 Bases de datos & monitorización
-
----
-
-## 🛠️ Herramientas 
+## 🛠️ Conocimientos Técnicos 
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -35,7 +21,7 @@
 
 ## 📌 En proceso...
 
-- Aprendiendo más sobre **Terraform**, **CI/CD con GitHub Actions** y **Kubernetes**  
+- Aprendiendo más sobre **Terraform**, **CI/CD con Kubernetes**  
 - Preparándome para certificaciones avanzadas de **AWS**  
 - Formandome en el Bootcamp en Cloud Computing y DevOps de **BlockStellart**
 
