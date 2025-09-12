@@ -13,7 +13,8 @@ Me apasiona diseñar infraestructuras modernas, escalables y seguras, aplicando 
 
 🔹 Experiencia en proyectos de **IoT con LoRa, Grafana y bases de datos SQL**.  
 🔹 Desarrollo de sistemas de **monitorización y control remoto en entornos críticos**.  
-🔹 Actualmente me sigo formando en **Cloud & DevOps** a través de proyectos prácticos y certificaciones.  
+🔹 Actualmente me encuentro en un proceso de **formación continua en Cloud Computing y DevOps**, aprendiendo y practicando cada día para consolidar mis conocimientos y ampliar mis habilidades en infraestructuras modernas.  
+ 
 
 ---
 
@@ -29,13 +30,6 @@ Me apasiona diseñar infraestructuras modernas, escalables y seguras, aplicando 
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
-
-
-## Actualmente
-
-Me encuentro en un proceso de **formación continua en Cloud Computing y DevOps**, aprendiendo y practicando cada día para consolidar mis conocimientos y ampliar mis habilidades en infraestructuras modernas.  
 
 ---
 
