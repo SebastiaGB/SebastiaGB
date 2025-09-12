@@ -1,5 +1,5 @@
 
-<h1 align="center"> ¡Hey! Soy Sebastià Gamundí Beneyto</h1>
+<h1 align="center"> ¡Hola! Soy Sebastià</h1>
 
 <p align="center">
   Ingeniero Técnico en Telemática • Especialiste en IoT y Monitorización de infraestructuras • Enfocado en el Cloud Computing
