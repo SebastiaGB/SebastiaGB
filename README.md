@@ -8,12 +8,15 @@
 
 ## Sobre mí
 
-Soy ingeniero en Telemática especializado en **IoT, redes y monitorización**, actualmente enfocado en **Cloud Computing (AWS)** y **DevOps**.  
-Me apasiona diseñar infraestructuras modernas, escalables y seguras, aplicando **automatización, observabilidad y buenas prácticas de despliegue**.  
+Ingeniero en Telemática especializado en IoT, redes y monitorización de infraestructuras. Actualmente me encuentro en proceso de especialización en Cloud Computing (AWS) y DevOps.
 
-🔹 Experiencia en proyectos de **IoT con LoRa, Grafana y bases de datos SQL**.  
-🔹 Desarrollo de sistemas de **monitorización y control remoto en entornos críticos**.  
-🔹 Actualmente me encuentro en un proceso de **formación continua en Cloud Computing y DevOps**, aprendiendo y practicando cada día para consolidar mis conocimientos y ampliar mis habilidades en infraestructuras modernas.  
+Me apasiona el diseño de infraestructuras modernas, escalables y seguras, aplicando principios de automatización, observabilidad y despliegue continuo.
+
+🔹 Experiencia en proyectos de IoT con LoRa, Grafana y bases de datos SQL.
+🔹 Desarrollo de sistemas de monitorización y control remoto en entornos distribuidos.
+🔹 En constante aprendizaje y mejora, explorando soluciones Cloud, CI/CD y orquestación de servicios.
+
+Mi objetivo es seguir creciendo como Cloud & DevOps Engineer, combinando mi experiencia en IoT con la infraestructura cloud y la automatización.
  
 
 ---
