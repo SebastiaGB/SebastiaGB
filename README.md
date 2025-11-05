@@ -12,8 +12,8 @@ Ingeniero en Telemática especializado en IoT, redes y monitorización de infrae
 
 Me apasiona el diseño de infraestructuras modernas, escalables y seguras, aplicando principios de automatización, observabilidad y despliegue continuo.
 
-🔹 Experiencia en proyectos de IoT con LoRa, Grafana y bases de datos SQL.
-🔹 Desarrollo de sistemas de monitorización y control remoto en entornos distribuidos.
+🔹 Experiencia en proyectos de IoT con LoRa, Grafana y bases de datos SQL.\
+🔹 Desarrollo de sistemas de monitorización y control remoto en entornos distribuidos.\
 🔹 En constante aprendizaje y mejora, explorando soluciones Cloud, CI/CD y orquestación de servicios.
 
 Mi objetivo es seguir creciendo como Cloud & DevOps Engineer, combinando mi experiencia en IoT con la infraestructura cloud y la automatización.
