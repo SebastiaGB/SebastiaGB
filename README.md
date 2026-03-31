@@ -10,15 +10,15 @@
 
 Ingeniero en Telemática enfocado en Cloud Computing y entornos DevOps, con experiencia en proyectos prácticos en AWS y Azure, contenedores y sistemas de monitorización.
 
-Me interesa el diseño y despliegue de infraestructuras escalables, seguras y automatizadas, aplicando buenas prácticas de observabilidad y automatización en entornos cloud.
+Me interesa el diseño y despliegue de infraestructuras escalables, seguras y automatizadas, aplicando buenas prácticas de observabilidad y automatización en entornos cloud. 
 
-🔹 Experiencia en proyectos con AWS, monitorización (Grafana) y despliegue de servicios
-🔹 Trabajo con contenedores y bases de sistemas distribuidos
+🔹 Experiencia en proyectos con AWS, monitorización (Grafana) y despliegue de servicios\
+🔹 Trabajo con contenedores y bases de sistemas distribuidos\
 🔹 Desarrollo de soluciones de monitorización e integración de datos en entornos cloud
 
-Cuento también con experiencia en proyectos IoT, integrando dispositivos y sistemas de adquisición de datos con plataformas cloud para su procesamiento y visualización.
+Cuento también con experiencia en proyectos IoT, integrando dispositivos y sistemas de adquisición de datos con plataformas cloud para su procesamiento y visualización. 
 
-Actualmente continúo ampliando conocimientos en tecnologías como contenedores y orquestación, con el objetivo de crecer como Cloud / DevOps Engineer.
+Actualmente continúo ampliando conocimientos en tecnologías como contenedores y orquestación, con el objetivo de crecer como Cloud / DevOps Engineer. 
  
 
 ---
