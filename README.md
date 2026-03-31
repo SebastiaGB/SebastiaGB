@@ -1,22 +1,24 @@
-<h1 align="center"> ¡Hola! Soy Sebastià Gamundí</h1>
+<h1 align="center"> ¡Hola! Soy Sebastià Gamundí Beneyto</h1>
 
 <p align="center">
-  <b>Ingeniero Telemático</b> | Cloud & DevOps Enthusiast | IoT & Monitorización de Infraestructuras
+  <b><b>Ingeniero Telemático | AWS Certified Solutions Architect Associate | Cloud & DevOps</b>
 </p>
 
 ---
 
 ## Sobre mí
 
-Ingeniero en Telemática especializado en IoT, redes y monitorización de infraestructuras. Actualmente me encuentro en proceso de especialización en Cloud Computing (AWS) y DevOps.
+Ingeniero en Telemática enfocado en Cloud Computing y entornos DevOps, con experiencia en proyectos prácticos en AWS y Azure, contenedores y sistemas de monitorización.
 
-Me apasiona el diseño de infraestructuras modernas, escalables y seguras, aplicando principios de automatización, observabilidad y despliegue continuo.
+Me interesa el diseño y despliegue de infraestructuras escalables, seguras y automatizadas, aplicando buenas prácticas de observabilidad y automatización en entornos cloud.
 
-🔹 Experiencia en proyectos de IoT con LoRa, Grafana y bases de datos SQL.\
-🔹 Desarrollo de sistemas de monitorización y control remoto en entornos distribuidos.\
-🔹 En constante aprendizaje y mejora, explorando soluciones Cloud, CI/CD y orquestación de servicios.
+🔹 Experiencia en proyectos con AWS, monitorización (Grafana) y despliegue de servicios
+🔹 Trabajo con contenedores y bases de sistemas distribuidos
+🔹 Desarrollo de soluciones de monitorización e integración de datos en entornos cloud
 
-Mi objetivo es seguir creciendo como Cloud & DevOps Engineer, combinando mi experiencia en IoT con la infraestructura cloud y la automatización.
+Cuento también con experiencia en proyectos IoT, integrando dispositivos y sistemas de adquisición de datos con plataformas cloud para su procesamiento y visualización.
+
+Actualmente continúo ampliando conocimientos en tecnologías como contenedores y orquestación, con el objetivo de crecer como Cloud / DevOps Engineer.
  
 
 ---
@@ -25,12 +27,11 @@ Mi objetivo es seguir creciendo como Cloud & DevOps Engineer, combinando mi expe
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -38,9 +39,15 @@ Mi objetivo es seguir creciendo como Cloud & DevOps Engineer, combinando mi expe
 ## Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastia-gamundi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SebastiaGB" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:gamun747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sebastiagb.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Cloud-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sebastia-gamundi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gamun747@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
