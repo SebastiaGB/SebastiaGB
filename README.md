@@ -1,25 +1,27 @@
-<h1 align="center"> ¡Hola! Soy Sebastià Gamundí Beneyto</h1>
+<h1 align="center">¡Hola! Soy Sebastià Gamundí Beneyto</h1>
 
 <p align="center">
-  <b><b>Ingeniero Telemático | AWS Certified Solutions Architect Associate | Cloud & DevOps</b>
+  <b>Cloud Engineer | AWS | Terraform | Automation & Observability</b>
 </p>
 
 ---
 
 ## Sobre mí
 
-Ingeniero en Telemática enfocado en Cloud Computing y entornos DevOps, con experiencia en proyectos prácticos en AWS y Azure, contenedores y sistemas de monitorización.
+Soy Cloud Engineer, especializado en la gestión, automatización y mantenimiento de infraestructura cloud, principalmente en entornos AWS.
 
-Me interesa el diseño y despliegue de infraestructuras escalables, seguras y automatizadas, aplicando buenas prácticas de observabilidad y automatización en entornos cloud. 
+Trabajo con infraestructura como código, despliegues automatizados y operaciones cloud, participando en la monitorización de servicios, la resolución de incidencias y la mejora de la fiabilidad de la infraestructura.
 
-🔹 Experiencia en proyectos con AWS, monitorización (Grafana) y despliegue de servicios\
-🔹 Trabajo con contenedores y bases de sistemas distribuidos\
-🔹 Desarrollo de soluciones de monitorización e integración de datos en entornos cloud
+Me interesa diseñar y construir soluciones cloud seguras, escalables y mantenibles, aplicando buenas prácticas de automatización, observabilidad y gestión de recursos.
 
-Cuento también con experiencia en proyectos IoT, integrando dispositivos y sistemas de adquisición de datos con plataformas cloud para su procesamiento y visualización. 
+🔹 **Cloud Infrastructure:** gestión y mantenimiento de entornos AWS, incluyendo arquitecturas multi-account.  
+🔹 **Infrastructure as Code:** despliegue y gestión de infraestructura con Terraform y CloudFormation.  
+🔹 **Automation & Operations:** automatización de tareas, monitorización y troubleshooting.  
+🔹 **Observability:** monitorización de servicios y análisis de métricas mediante Grafana.  
 
-Actualmente continúo ampliando conocimientos en tecnologías como contenedores y orquestación, con el objetivo de crecer como Cloud / DevOps Engineer. 
- 
+Cuento también con proyectos personales relacionados con arquitecturas cloud, monitorización, contenedores e integración de datos, donde aplico y amplío mis conocimientos técnicos.
+
+Actualmente, mi objetivo es seguir creciendo profesionalmente en Cloud Engineering, profundizando en automatización, infraestructura como código y servicios cloud.
 
 ---
 
@@ -27,10 +29,12 @@ Actualmente continúo ampliando conocimientos en tecnologías como contenedores 
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
@@ -45,7 +49,7 @@ Actualmente continúo ampliando conocimientos en tecnologías como contenedores 
   <a href="https://www.linkedin.com/in/sebastia-gamundi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gamun747@gmail.com">
+  <a href="mailto:s.gamunbene@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -61,4 +65,3 @@ Actualmente continúo ampliando conocimientos en tecnologías como contenedores 
     <img width="360" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebastiaGB&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
